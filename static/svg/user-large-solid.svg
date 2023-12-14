@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" viewBox="0 0 512 512" style="padding: 5">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="padding:1em">
     <!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.-->
-    <path fill="#444444"
-        d="M256 288A144 144 0 1 0 256 0a144 144 0 1 0 0 288zm-94.7 32C72.2 320 0 392.2 0 481.3c0 17 13.8 30.7 30.7 30.7H481.3c17 0 30.7-13.8 30.7-30.7C512 392.2 439.8 320 350.7 320H161.3z" />
+    <path fill="#707070"
+        d="M256 288a144 144 0 1 0 0-288 144 144 0 1 0 0 288zm-94.7 32C72.2 320 0 392.2 0 481.3c0 17 13.8 30.7 30.7 30.7h450.6c17 0 30.7-13.8 30.7-30.7 0-89.1-72.2-161.3-161.3-161.3H161.3z" />
 </svg>

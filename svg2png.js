@@ -5,7 +5,7 @@ const path = require("path");
     const { default: svg2img } = await import("svg2img");
     const { default: fs } = await import("fs");
 
-    const paths = await globby("static/gitlab/svg/**/*.svg");
+    const paths = await globby("static/gitlab-color/svg/**/*.svg");
     paths.forEach((path, idx) => {
         // if (idx >= 2) return;
         try {
